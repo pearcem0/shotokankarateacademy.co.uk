@@ -1,5 +1,8 @@
 name: CI
 
+permissions:
+  issues: write # To create Issues for manual approval step
+
 on: 
   workflow_dispatch: # Allow manual deployment via the GitHub Actions UI
     inputs:
