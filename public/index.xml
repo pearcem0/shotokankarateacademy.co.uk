@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shotokan Karate Academy</title>
+    <link>https://shotokankarateacademy.co.uk/</link>
+    <description>Recent content on Shotokan Karate Academy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language><atom:link href="https://shotokankarateacademy.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://shotokankarateacademy.co.uk/homepage/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shotokankarateacademy.co.uk/homepage/about-us/</guid>
+      <description>About Us A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend.</description>
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>https://shotokankarateacademy.co.uk/homepage/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shotokankarateacademy.co.uk/homepage/location/</guid>
+      <description>This is just another section to appear on the homepage.</description>
+    </item>
+    
+    <item>
+      <title>Prices</title>
+      <link>https://shotokankarateacademy.co.uk/homepage/prices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shotokankarateacademy.co.uk/homepage/prices/</guid>
+      <description>This is just another section to appear on the homepage.</description>
+    </item>
+    
+    <item>
+      <title>Training Times</title>
+      <link>https://shotokankarateacademy.co.uk/homepage/training-times/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shotokankarateacademy.co.uk/homepage/training-times/</guid>
+      <description>This is just another section to appear on the homepage.</description>
+    </item>
+    
+  </channel>
+</rss>
