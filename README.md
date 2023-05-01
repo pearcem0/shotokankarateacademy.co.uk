@@ -40,11 +40,15 @@ Currently deployed to AWS (Amazon Web Services).
 
 To automate the build and deployment there is a Github Actions Workflow in the `.git/workflows/main.yml` file that that runs when code is merged.
 
+When the code is merged to the `main` branch it is automatically deployed to staging (`https://staging.shotokankarateacademy.co.uk`) before creating a Github Issue that is used to manually approve the change before continuing the automated deployment to production (`https://shotokankarateacademy.co.uk`).
+
 #### Pre-requisites
 
 To provide permissions for the workflow to upload files to the Amazon S3 Bucket, you will need to add Github secrets to restore the values for a valid AWS Access Key Pair (AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY) along with the name of the S3 buckets (BUCKET_NAME and STAGING_BUCKET_NAME) and the region that the bucket is deployed in (AWS_REGION).
 
 ### Manual Deployment
+
+The Github Action workflow can also be used to deploy manually.
 
 #### Local build
 
