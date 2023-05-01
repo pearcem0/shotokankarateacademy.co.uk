@@ -18,6 +18,10 @@ jobs:
       - name: Update theme
         run: git submodule update --init --recursive
 
+      - name: Hugo Minify
+        run: |
+          hugo --minify
+
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
@@ -25,9 +29,14 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
 
-      - name: Build & Push
+      - name: Push to Staging
+        env:
+          BUCKET: ${{ secrets.STAGING_BUCKET_NAME }}
+        run: |
+          aws s3 cp public/ s3://"$BUCKET" --recursive
+    
+      - name: Push to Production
         env:
           BUCKET: ${{ secrets.BUCKET_NAME }}
         run: |
-          hugo --minify
           aws s3 cp public/ s3://"$BUCKET" --recursive
