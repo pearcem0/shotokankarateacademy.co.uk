@@ -10,5 +10,11 @@ header_menu: true
 * Nails must be kept clean and short enough to avoid scratching and cutting. Jewellery or watches should not be worn. If it is not possible to remove rings of earrings, they should be safely covered.
 * It may be requested that shoes are removed on entering the Dojo.
 * It is polite to walk around the edge of the training area.
-* Students must make every effort to be on time for classes, but if late, should enter the dojo quietly, change, and warm up in the changing room. When joining the class, they must kneel to the front and side of the class, where they can be clearly seen by the Senseis, and watch carefully for the Senseis signal to join in. When this signal is given, they should remain kneeling, bow deeply, then walk quickly and quietly around the back of the class until it is convenient go to a position appropriate to their grade
+* It is mandatory to walk around the edge of the training area while class is in progress.
+* Students are expected to arrive on time for classes. However, if they happen to be late they should:
+  1. Change into their training attire
+  2. Warm up in the designated changing room
+  3. Enter the dojo silently, walk briskly around the outside of the training area and kneel in front and to the side of the class, ensuring clear visibility to the Senseis
+  4. Attentively watch for the Senseis' signal to participate
+  5. Once the signal is given, they should continue kneeling, bow deeply, and then proceed swiftly and quietly to the back of the class until it is convenient to find a suitable position corresponding to their grade.
 * Any behaviour that is likely to offend the etiquette of the Dojo is not allowed
