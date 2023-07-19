@@ -1,6 +1,6 @@
 ---
 title: "Disclaimer"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
