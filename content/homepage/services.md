@@ -38,6 +38,6 @@ Payments are required to be made by Standing Order. Account details are shared d
 Non-member fees (for members of other clubs or occasional visitors) are as follows:
 * Up to 17 years old / Students (e.g. University) £6.00 per lesson
 * 18 years old and over  £8.00 per lesson
-* You must also apply for a license from our association, the Karate Union of Great Britain, via https://kugb.me. The license is renewable annually, with current fees being £30 for adults and £25 for children.
+* You must also apply for a licence from our association, the Karate Union of Great Britain, via https://kugb.me. The licence is renewable annually, with current fees being £30 for adults and £25 for children.
 
 
