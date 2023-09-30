@@ -26,7 +26,7 @@ Brown and Black Belts Only - 11:00-12:30
 
 ## Membership & Training Fees
 
-When you join the Academy, there is a one-off membership fee of £25. The Academy is operating a monthly payment scheme and all members are required to set up a standing order for this. As a new member, you can train at the Academy for a maximum of 4 weeks before the standing order must be in place.
+The Academy is operating a monthly payment scheme and all members are required to set up a standing order for this. As a new member, you can train at the Academy for a maximum of 4 weeks before the standing order must be in place.
 
 The monthly fee is:
 * Up to 17 years old £30 per month
