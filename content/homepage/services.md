@@ -29,11 +29,13 @@ Brown and Black Belts Only - 11:00-12:30
 The Academy is operating a monthly payment scheme and all members are required to set up a standing order for this. As a new member, you can train at the Academy for a maximum of 4 weeks before the standing order must be in place.
 
 The monthly fee is:
-* Up to 17 years old £30 per month
-* 18 years old and over £40 per month
-* Students (e.g. University) £30 per month
+* Up to 17 years old £35 per month
+* 18 years old and over £45 per month
+* Students (e.g. University) £35 per month
 
 Payments are required to be made by Standing Order. Account details are shared during the membership sign up process.
+
+**Please Note:** standing order payments should be paid on either the 1st or the 15th of each month.
 
 Non-member fees (for members of other clubs or occasional visitors) are as follows:
 * Up to 17 years old / Students (e.g. University) £6.00 per lesson
